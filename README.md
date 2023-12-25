@@ -8,7 +8,6 @@
 This project focuses on the analysis of stock market values using Spark Streaming to process and analyze stock data in real time. The goal is to extract actionable insights and understand market dynamics.
 
 ## User Guide
-- Start by running the notebook “Kafka_Producer_for_Project” to initiate the stream.
 - Update PySpark to version 3.5.0 before executing tasks.
 - For each task in the main project notebook, run the “Pre-configuration” followed by the task itself. Restart the kernel for subsequent tasks.
 
